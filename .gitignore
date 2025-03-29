@@ -52,3 +52,8 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/BonusingSystem/CopilotIndices/17.12.53.23981
+/.vs/BonusingSystem/DesignTimeBuild
+/.vs/BonusingSystem/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/BonusingSystem/v17
